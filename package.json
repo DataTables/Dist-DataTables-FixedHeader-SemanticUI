@@ -1,0 +1,29 @@
+{
+    "name": "datatables.net-fixedheader-se",
+    "version": "3.1.2",
+    "description": "FixedHeader for DataTables with styling for [Semantic UI](http://semantic-ui.com/)",
+    "files": [
+        "css/fixedHeader.semanticui.css"
+    ],
+    "main": "./js/fixedHeader.semanticui.js",
+    "keywords": [
+        "fixed headers",
+        "sticky",
+        "DataTables",
+        "jQuery",
+        "table",
+        "Semantic UI"
+    ],
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "MIT",
+    "author": {
+        "name": "SpryMedia Ltd",
+        "url": "http://datatables.net"
+    },
+    "dependencies": {
+        "jquery": ">=1.7",
+        "datatables.net-se": ">=1.10.13",
+        "datatables.net-fixedheader": ">=3.1.2"
+    }
+}
