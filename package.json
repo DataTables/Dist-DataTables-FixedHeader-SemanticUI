@@ -3,7 +3,7 @@
     "version": "3.1.2",
     "description": "FixedHeader for DataTables with styling for [Semantic UI](http://semantic-ui.com/)",
     "files": [
-        "css/fixedHeader.semanticui.css"
+        "css/**/*.css"
     ],
     "main": "./js/fixedHeader.semanticui.js",
     "keywords": [
