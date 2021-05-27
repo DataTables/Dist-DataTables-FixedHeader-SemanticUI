@@ -1,31 +1,50 @@
 {
     "name": "datatables.net-fixedheader-se",
+    "description": "FixedHeader for DataTables with styling for [SemanticUI](https://semantic-ui.com/)",
+    "main": "js/fixedHeader.semanticui.js",
+    "style": "css/fixedHeader.semanticui.css",
     "version": "3.1.8",
-    "description": "FixedHeader for DataTables with styling for [Semantic UI](http://semantic-ui.com/)",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
     ],
-    "main": "js/fixedHeader.semanticui.js",
     "keywords": [
-        "fixed headers",
-        "sticky",
-        "DataTables",
+        "FixedHeader",
+ "Fixed Headers",
+ "Sticky",
+        "Semantic",
+ "SemanticUI",
+ "Semantic UI",
+        "Datatables",
         "jQuery",
         "table",
-        "Semantic UI"
+        "filter",
+        "sort"
     ],
-    "homepage": "https://datatables.net",
-    "bugs": "https://datatables.net/forums",
-    "license": "MIT",
+    "dependencies": {
+        "datatables.net-fixedheader": ">=3.1.8",
+        "datatables.net-se": ">=1.10.24",
+        "jquery": ">=1.7"
+    },
+    "moduleType": [
+        "globals",
+        "amd",
+        "node"
+    ],
+    "ignore": [
+        "composer.json",
+        "datatables.json",
+        "package.json"
+    ],
     "author": {
         "name": "SpryMedia Ltd",
         "url": "http://datatables.net"
     },
-    "dependencies": {
-        "jquery": ">=1.7",
-        "datatables.net-se": "^1.10.15",
-        "datatables.net-fixedheader": "3.1.8"
-    },
-    "style": "css/fixedHeader.semanticui.css"
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DataTables/Dist-DataTables-FixedHeader-SemanticUI.git"
+    }
 }
