@@ -7,15 +7,16 @@
     "version": "3.2.0",
     "files": [
         "css/**/*.css",
-        "js/**/*.js"
+        "js/**/*.js",
+        "types/**/*.d.ts"
     ],
     "keywords": [
         "FixedHeader",
-        "Fixed Headers",
-        "Sticky",
+ "Fixed Headers",
+ "Sticky",
         "Semantic",
-        "SemanticUI",
-        "Semantic UI",
+ "SemanticUI",
+ "Semantic UI",
         "Datatables",
         "jQuery",
         "table",
@@ -23,8 +24,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-fixedheader": ">=3.1.9",
-        "datatables.net-se": ">=1.10.25",
+        "datatables.net-fixedheader": ">=3.2.0",
+        "datatables.net-se": ">=1.11.3",
         "jquery": ">=1.7"
     },
     "moduleType": [
