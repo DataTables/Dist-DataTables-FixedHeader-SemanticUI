@@ -12,11 +12,11 @@
     ],
     "keywords": [
         "FixedHeader",
-        "Fixed Headers",
-        "Sticky",
+ "Fixed Headers",
+ "Sticky",
         "Semantic",
-        "SemanticUI",
-        "Semantic UI",
+ "SemanticUI",
+ "Semantic UI",
         "Datatables",
         "jQuery",
         "table",
@@ -24,8 +24,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-fixedheader": ">=3.2.0",
-        "datatables.net-se": ">=1.11.3",
+        "datatables.net-fixedheader": ">=3.2.2",
+        "datatables.net-se": ">=1.11.5",
         "jquery": ">=1.7"
     },
     "moduleType": [
