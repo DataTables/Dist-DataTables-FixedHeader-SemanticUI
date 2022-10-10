@@ -2,12 +2,14 @@
     "name": "datatables.net-fixedheader-se",
     "description": "FixedHeader for DataTables with styling for [SemanticUI](https://semantic-ui.com/)",
     "main": "js/fixedHeader.semanticui.js",
+    "module": "js/fixedHeader.semanticui.mjs",
     "style": "css/fixedHeader.semanticui.css",
     "types": "./types/fixedHeader.semanticUI.d.ts",
     "version": "3.2.4",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [
