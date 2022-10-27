@@ -10,7 +10,8 @@
         "css/fixedHeader.semanticui.min.css"
     ],
     "types": [
-        "types/fixedHeader.semanticUI.d.ts"
+        "types/fixedHeader.semanticUI.d.ts",
+        "types/types.d.ts"
     ],
     "src-repo": "http://github.com/DataTables/FixedHeader",
     "last-tag": "3.2.4"
