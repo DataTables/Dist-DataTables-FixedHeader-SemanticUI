@@ -1,5 +1,4 @@
 {
-    "version": "3.2.4",
     "name": "datatables.net/datatables.net-fixedheader-se",
     "description": "When displaying large amounts of data in a table, it can often be useful for the end user to have the column titles always visible. This is particularly true if using DataTables with pagination disabled, or the display length is set to a high value. The FixedHeader extension provides this ability. This is FixedHeader for DataTables with styling for [SemanticUI](https://semantic-ui.com/)",
     "support": {
@@ -20,11 +19,11 @@
     "minimum-stability": "dev",
     "keywords": [
         "FixedHeader",
- "Fixed Headers",
- "Sticky",
+        "Fixed Headers",
+        "Sticky",
         "Semantic",
- "SemanticUI",
- "Semantic UI",
+        "SemanticUI",
+        "Semantic UI",
         "Datatables",
         "jQuery",
         "table"
