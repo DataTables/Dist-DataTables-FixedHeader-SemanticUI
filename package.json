@@ -5,7 +5,7 @@
     "module": "js/fixedHeader.semanticui.mjs",
     "style": "css/fixedHeader.semanticui.css",
     "types": "./types/fixedHeader.semanticui.d.ts",
-    "version": "4.0.6",
+    "version": "5.0.0-beta.1",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -20,26 +20,14 @@
         "SemanticUI",
         "Semantic UI",
         "Datatables",
-        "jQuery",
         "table",
         "filter",
         "sort"
     ],
     "dependencies": {
-        "datatables.net-fixedheader": "4.0.6",
-        "datatables.net-se": "^2",
-        "jquery": ">=1.7"
+        "datatables.net-fixedheader": "5.0.0-beta.1",
+        "datatables.net-se": "3.0.0-0"
     },
-    "moduleType": [
-        "globals",
-        "amd",
-        "node"
-    ],
-    "ignore": [
-        "composer.json",
-        "datatables.json",
-        "package.json"
-    ],
     "author": {
         "name": "SpryMedia Ltd",
         "url": "http://datatables.net"
@@ -49,6 +37,6 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/DataTables/Dist-DataTables-FixedHeader-SemanticUI.git"
+        "url": "git+https://github.com/DataTables/FixedHeader.git"
     }
 }
