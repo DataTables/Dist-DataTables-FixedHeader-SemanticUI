@@ -41,9 +41,10 @@
     "exports": {
         ".": {
             "types": "./types/fixedHeader.semanticui.d.ts",
+            "style": "./css/fixedHeader.semanticui.css",
             "import": "./js/fixedHeader.semanticui.mjs",
-            "default": "./js/fixedHeader.semanticui.mjs",
-            "require": "./js/fixedHeader.semanticui.js"
+            "require": "./js/fixedHeader.semanticui.js",
+            "default": "./js/fixedHeader.semanticui.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
